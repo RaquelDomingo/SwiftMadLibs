@@ -17,7 +17,7 @@
                BlueprintIdentifier = "C06C94A11F68697C00C441D3"
                BuildableName = "madlibs.app"
                BlueprintName = "madlibs"
-               ReferencedContainer = "container:madlibs.xcodeproj">
+               ReferencedContainer = "container:MadLibs.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
                BlueprintIdentifier = "C06C94B51F68697C00C441D3"
                BuildableName = "madlibsTests.xctest"
                BlueprintName = "madlibsTests"
-               ReferencedContainer = "container:madlibs.xcodeproj">
+               ReferencedContainer = "container:MadLibs.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -45,7 +45,7 @@
                BlueprintIdentifier = "C06C94C01F68697C00C441D3"
                BuildableName = "madlibsUITests.xctest"
                BlueprintName = "madlibsUITests"
-               ReferencedContainer = "container:madlibs.xcodeproj">
+               ReferencedContainer = "container:MadLibs.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,7 +55,7 @@
             BlueprintIdentifier = "C06C94A11F68697C00C441D3"
             BuildableName = "madlibs.app"
             BlueprintName = "madlibs"
-            ReferencedContainer = "container:madlibs.xcodeproj">
+            ReferencedContainer = "container:MadLibs.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -78,7 +78,7 @@
             BlueprintIdentifier = "C06C94A11F68697C00C441D3"
             BuildableName = "madlibs.app"
             BlueprintName = "madlibs"
-            ReferencedContainer = "container:madlibs.xcodeproj">
+            ReferencedContainer = "container:MadLibs.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -97,7 +97,7 @@
             BlueprintIdentifier = "C06C94A11F68697C00C441D3"
             BuildableName = "madlibs.app"
             BlueprintName = "madlibs"
-            ReferencedContainer = "container:madlibs.xcodeproj">
+            ReferencedContainer = "container:MadLibs.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
